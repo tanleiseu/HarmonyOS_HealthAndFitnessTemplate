@@ -19,4 +19,4 @@ Github（官方）：https://github.com/AppGalleryConnect/agc-template-market-ha
 
 | 运动健康类（健身房）行业模板 | 
 |:---:|
-|![输入图片说明](FitnessCenter/screenshots/homePage.png)| 
+|![输入图片说明](%E5%81%A5%E8%BA%AB%E6%88%BF%E5%85%83%E6%9C%8D%E5%8A%A1%E6%A8%A1%E6%9D%BF.png)| 
